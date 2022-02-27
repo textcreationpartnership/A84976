@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true relation of dreadful and terrible storm, that hapned [sic] at Forte St. George, in the East-Indies, on the 3d of November, 1684. Communicated in a letter to a friend in London, from one belonging to the English factory.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84976</idno>
+            <idno type="STC">Wing F2314aA</idno>
+            <idno type="STC">ESTC R177239</idno>
+            <idno type="EEBO-CITATION">45097796</idno>
+            <idno type="OCLC">ocm 45097796</idno>
+            <idno type="VID">171382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84976)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171382)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2572:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true relation of dreadful and terrible storm, that hapned [sic] at Forte St. George, in the East-Indies, on the 3d of November, 1684. Communicated in a letter to a friend in London, from one belonging to the English factory.</title>
+                  <author>R. L. S.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom, at the sign of the Blue-Ball in Thames-street, over against Baynard's-Castle.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This may be printed, 1685. R.L.S."--P. [2].</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Storms --  India --  Madras.</term>
+               <term>Madras (India : Presidency) --  History.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:171382:1" rendition="simple:additions"/>
+            <head>A full and True RELATION Of a Dreadful and Terrible STORM, That Hapned at Forte St. George, IN The <hi>EAST-INDIES,</hi> on the 3d of <hi>November,</hi> 1684.</head>
+            <head type="sub">Communicated in a Letter to a Friend in <hi>London,</hi> from one belonging to the <hi>Engliſh</hi> Factory.</head>
+            <p>STrange and Wonderful are the ways of Divine and Governing Providence, in the management of the ſeveral Changes and Alte<g ref="char:EOLhyphen"/>rations on this <hi>Terreſtrial Globe,</hi> the ways of the Almighty being unſearchable and paſt finding out; yet he is often pleaſed to give us warning of his Diſpleaſure with us, for our Manifold Sins and Iniqui<g ref="char:EOLhyphen"/>ties committed againſt his Divine Majeſty; That we may yet turn from them and Live: And as he hath placed the <hi>Rain-Bow</hi> in the <hi>Heavens</hi> as a Sign or Token to the Wretched Sons and Daughters of <hi>Adam,</hi> that he will no more Deſtroy the World by Water, ſo he often gives us notice when his Wrath and Anger is kindled againſt us, by Signs in the <hi>Heavens, Air, Earth,</hi> and <hi>Waters;</hi> often letting looſe the powers of the Air, to rove about the World in Storms and Tem<g ref="char:EOLhyphen"/>peſts: but we have ſeldome heard of Hurricanes ſo violent as this, whereof take the following Relation.</p>
+            <p>By Letters from <hi>Fort St. George</hi> of the 5th. of <hi>February</hi> laſt paſt, we have Advice that on the third of <hi>November,</hi> 1684. at the ſaid <hi>Fort St. George</hi> in the <hi>Eaſt-Indies,</hi> a Factory of the <hi>Engliſh,</hi> about Nine of the Clock at Night happened a Violent Storm, which laſted until two of the Clock the next Morning, in which time it wrought wonderous Effects, to the great Aſtoniſhment of the Inhabitants, who were at a
+<pb facs="tcp:171382:2"/>greater Conſternation at the extreem fierceneſs of the Tempeſt, than ever any Gariſon was, that was taken by Storm; ſome concluding that the Dreadful day of Doom was come; the great amazing ſound of it made the Wiſeſt Tremble, and the moſt bold and Valiant, faint-Hearted: It untiled all the Houſes in the Town, which made ſuch a Ratling and terrible Noiſe, as if ſome thouſands of <hi>Bombs</hi> had been thrown into the Town by an Enemy. It laid all their Gardens, (of which they have many Curious and pleaſent ones) as flat and level as the ſmotheſt <hi>Bouling-Greens.</hi> Trees which were of a great and prodigious Growth, ſome of them perhaps as Ancient as the World, were Violently torn up by the Roots, and their Aged Trunks riven in Pieces: The noiſe of the cracking and breaking of their Boughs and Branches, ſeemed almoſt to equal that of the Tempeſt; but that which the moſt of all added to their Amazement was this, a ſtrong <hi>Iron-Bar</hi> which belonged to a Window, (a thing hardly Credible) was with the extreem force of the Wind, ſnapped into three Pieces. Which things had not the Relator of this from <hi>Forte St. George,</hi> been an Eye Witneſs the next Day, and of the Ruins cauſed by this Tempeſt, or Hurricane, he could not have believed it; and adds further, that had it continued but for two or three Hours longer, it had certainly leveled both the Fort and Town, which are both ſtrong built, and well Fortified; but no doubt but this Storm hath been very Prejudi<g ref="char:EOLhyphen"/>cial to both, and done great Damage to the Inhabitants: I ſhall con<g ref="char:EOLhyphen"/>clude with the Relators own Words: The Lord be Praiſed for this Ceſſation, and grant us deliverance from ſuch Storms and Tempeſts, to which had not the Providence of Almighty God in his great Wiſ<g ref="char:EOLhyphen"/>dom put an end, and rebuked the Violence of its Rage, that Stately Fort and Town had certainly been laid even with the Ground, to the unſpeakable Damage of the Right Honourable the <hi>Eaſt-India</hi> Compa<g ref="char:EOLhyphen"/>ny here.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed,</p>
+            <closer>
+               <dateline>
+                  <date>1685.</date>
+               </dateline> 
+               <signed> R. L. S.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> George Croom, <hi>at the Sign of the</hi> Blue-Ball <hi>in</hi> Thames-ſtreet, <hi>over againſt</hi> Baynard<hi>'s</hi>-Caſtle. <hi>1685.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
